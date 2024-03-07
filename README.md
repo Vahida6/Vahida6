@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vahida
 - 👀 I’m interested in Data Analytics,Machine Learning,AI and Prompt Engineering
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on Machine learning and Prompt Enginnering Projects
 - 📫 Reach me at victory.vahida@gmail.com
 - ⚡ Fun fact: Hey ! I am Vastu Consultant too......
